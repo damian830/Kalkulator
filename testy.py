@@ -7,7 +7,7 @@ class TestyKalkulator(unittest.TestCase):
         # given
         a = 8
         b = 13
-        expected = 20
+        expected = 21
         # when
         result = kalkulator.dodawanie(a,b)
         # then
